@@ -81,7 +81,7 @@ author:
   name             : "Jaron Lee"
   avatar           : "profile.jpg"
   bio              : "Data scientist, statistics lover, barbershop singer."
-  location         : "Location"
+  location         : #"Location"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
