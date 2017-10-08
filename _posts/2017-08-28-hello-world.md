@@ -1,7 +1,7 @@
 ---
 title: 'Hello World!'
 date: 2017-08-28
-permalink: /posts/2012/08/hello-world/
+permalink: /posts/2017/08/hello-world/
 tags:
   - musings
 ---
