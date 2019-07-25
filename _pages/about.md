@@ -7,16 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD student in the [Department of Computer Science](https://www.cs.jhu.edu) at the Johns Hopkins University working with [Ilya Shpitser](https://www.cs.jhu.edu/~ilyas/). I'm interested in applying causal inference to solving problems in healthcare.
+I'm a PhD student in the [Department of Computer Science](https://www.cs.jhu.edu) at the Johns Hopkins University working with [Ilya Shpitser](https://www.cs.jhu.edu/~ilyas/). 
 
+I'm interested in applying causal inference to solving problems in healthcare. These problems include:
+* Causal identification
+* Missing data (where the mechanism of missingness is not at random) 
+* Applications of causal inference and machine learning to electronic health record data
 
-## Latest Blog Post
-{% assign post = site.posts.first %}
-{% capture written_year %}'None'{% endcapture %}
-{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-{% if year != written_year %}
-<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-{% capture written_year %}{{ year }}{% endcapture %}
-{% endif %}
-{% include archive-single.html %}
-
+I completed my undergraduate degree in statistics under the supervision of [Anton Westveld](https://westveld-statsci.com/) at the Australian National University.
