@@ -14,4 +14,4 @@ I'm interested in applying causal inference to solving problems in healthcare. T
 * Missing data (where the mechanism of missingness is not at random) 
 * Applications of causal inference and machine learning to electronic health record data
 
-I completed my undergraduate degree in statistics under the supervision of [Anton Westveld](https://westveld-statsci.com/) at the Australian National University.
+In a previous life, I was a data scientist at [Hivery](https://www.hivery.com), a machine learning startup in the retail space. I completed my undergraduate degree in statistics under the supervision of [Anton Westveld](https://westveld-statsci.com/) at the Australian National University.
