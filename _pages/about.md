@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jaron Lee"
+title: "Jaron J. R. Lee"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,3 +17,4 @@ I'm interested in applying causal inference to solving problems in healthcare. T
 I've been working on a Python package for causal inference! Check out [ananke](https://ananke.readthedocs.io/en/latest/) for more details.
 
 In a previous life, I was a data scientist at [Hivery](https://www.hivery.com), a machine learning startup in the retail space. I completed my undergraduate degree in statistics under the supervision of [Anton Westveld](https://westveld-statsci.com/) at the Australian National University.
+
